@@ -31,7 +31,8 @@ fun main() {
 
 
 
-        ///
+        /// hallo
+
         println("Du würfelst: $playerScore  --  Computer würfelt: $computerScore")
         when {
             playerScore > computerScore -> println("Du gewinnst")
