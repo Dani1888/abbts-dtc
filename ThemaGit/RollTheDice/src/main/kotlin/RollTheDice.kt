@@ -22,6 +22,7 @@ fun main() {
         // Todo: Ausgeben, wer mehr Runden gewonnen hat
 
 
+        // 4534523
         print("Gib deinen Namen ein: ")
         val name = readLine() ?: "" // Read user input and handle potential null
         println("Name = $name: ")
@@ -30,6 +31,8 @@ fun main() {
 
 
 
+
+        // hallo 55585
 
         /// hallo
 
