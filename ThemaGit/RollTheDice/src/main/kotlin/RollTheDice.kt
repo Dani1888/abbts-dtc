@@ -27,11 +27,6 @@ fun main() {
         val name = readLine() ?: "" // Read user input and handle potential null
         println("Name = $name: ")
 
-
-
-
-
-
         // hallo 55585
 
         /// hallo
